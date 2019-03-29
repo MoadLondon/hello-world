@@ -1,0 +1,22 @@
+h1 {
+	color:red;
+	text-align: center;
+}
+
+h2 {
+	color:blue;
+}
+
+div {
+	background-color:yellow;
+}
+
+table {
+	border:2px solid black;
+	border-collapse: collapse;
+	width = 90%;
+}
+
+td,td {
+	border:1px solid black;
+}
